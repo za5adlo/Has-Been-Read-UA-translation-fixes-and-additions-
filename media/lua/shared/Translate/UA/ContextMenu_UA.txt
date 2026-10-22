@@ -1,4 +1,0 @@
-ContextMenu_UA = {
-	ContextMenu_P4HasBeenRead_ToDoAutoMark = "Увімкнути автопозначення",
-	ContextMenu_P4HasBeenRead_ToDoNotAutoMark = "Вимкнути автопозначення",
-}
